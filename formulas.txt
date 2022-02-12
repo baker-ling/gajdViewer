@@ -1,0 +1,4 @@
+Lat no Formula =CONCATENATE(MID(D2,1,1), MID(D2,3,1), MID(D2,5,1))
+Lng no formula =CONCATENATE(MID(D2,2,1), MID(D2,4,1), MID(D2,6,1))
+Lat formula =IF(OR(MID(D2,1,2)="02",MID(D2,1,2)="11",MID(D2,1,2)="12"),(29-(((45+40/60)-29)*VALUE(M2)/1000)),IF(OR(MID(D2,1,2)="20",MID(D2,1,2)="21"),(25+40/60)-(((45+40/60)-29)*VALUE(M2)/1000),((45+40/60)-(((45+40/60)-29)*VALUE(M2)/1000))))
+Lng formula =122.5+((147.5-122.5)*VALUE(N2)/1000)

@@ -1,0 +1,42 @@
+.ipastring { font-family: "Lucida Sans Unicode", "Arial Unicode MS", "Andika", "Charis SIL", "Doulos SIL", "Gentium Plus", "Lucida Grande", "Meiryo", "MS PGothic";}
+.jpntext { font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+.mapinterface { font-family: sans-serif; }
+#legend_box {width:400px; margin:5px; border-style:solid; border-width:thin; padding:5px;}
+#legend_image_box {width:400px; margin:5px; border-style:solid; border-width:thin; padding:5px;}
+#misc_controls_box {width:400px; margin:5px; border-style:solid; border-width:thin; padding:5px;}
+.inspector_location_table {border-collapse: collapse; margin-top: 5px; margin-bottom: 5px; }
+.inspector_location_row_cell { border: 1px solid black; padding: 3px; border-collapse: collapse }
+.inspector_location_info_header {border: 0px; font-size: x-large; text-align: left; }
+.inspector_legend_entry_outer_div { border: 1px dotted black; padding: 3px; }
+.inspector_legend_entry_no_div { margin-top: 20px; }
+.inspector_legend_entry_no_header { margin-top: 0px; margin-bottom: 0px;}
+.inspector_legend_entry_no_div:first-child { margin-top: 0px; }
+.inspector_map_table { border: 1px solid black; padding: 3px; margin-top: 3px; margin-bottom: 3px;}
+.inspector_map_cell { border: 1px solid black; padding: 3px;}
+.delete_set_x { text-align: right; vertical-align: middle; font-size: xx-small; color: #CC0000; display: inline-block; float : right;}
+.legend_entry { width: 100%; text-align: left; }
+
+
+
+.gaj_toc_breakdown { padding-left: 20px; padding-right: 20px; }
+.gaj_guide_map_detailed_info_table { border: 1px solid black; border-collapse: collapse; margin-bottom: 10px; margin-left: 3px; width: 800px;}
+.gaj_guide_map_detailed_info_table > tr { border: 1px solid black; }
+.gaj_guide_header_row > td { border: 1px solid black; padding: 3px; font-size: larger; font-weight: bold; font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+.gaj_guide_vol_cell { width: 80px; }
+.gaj_guide_map_num_cell { width: 100px; }
+/*.gaj_guide_map_name_cell { }*/
+
+.gaj_guide_question_row > td {border: 1px solid black; padding: 3px; font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+.gaj_guide_pdf_link_row > td {border: 1px solid black; padding: 3px; font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+.gaj_guide_showhiderow > td {border: 1px solid black; padding: 3px; font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+/*
+ *.gaj_guide_formsrow_map
+ *.gaj_guide_forms_cell */
+.gaj_guide_forms_table { border: 1px solid black; border-collapse: collapse; margin-bottom: 10px; margin-left: 3px; width: 800px;}
+.gaj_guide_forms_table tr td {border: 1px solid black; padding: 3px; font-family: "Lucida Sans Unicode", "Arial Unicode MS", "Andika", "Charis SIL", "Doulos SIL", "Gentium Plus", "Lucida Grande", "Meiryo", "MS PGothic";}
+.gaj_guide_forms_table tr th {border: 1px solid black; padding: 3px; font-family: "Lucida Sans Unicode", "Arial Unicode MS", "Andika", "Charis SIL", "Doulos SIL", "Gentium Plus", "Lucida Grande", "Meiryo", "MS PGothic";}
+.gaj_guide_jump_row > td {border: 1px solid black; font-size: smaller; padding: 3px; font-family: Meiryo, MS PGothic, Osaka, Mona Font, Hiragino Kaku Gothic}
+.toggle_forms_span { text-decoration: underline; color: #008800;}
+.toggle_forms_span:hover { color: #880088;}
+.jump_span { text-decoration: underline; color: #008800;}
+.jump_span:hover { color: #880088;}
