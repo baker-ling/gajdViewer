@@ -5,7 +5,7 @@
 A Google Maps-based viewer of data from the Grammar Atlas of Japanese Dialects.
 This is a project that I originally made as a capstone project for my Masters degree in Japanese Linguistics. I taught myself JavaScript to make this app, and it contains a few hacks to make it work with the limited knowledge I had at the time. (For one, data is loaded by adding script tags dynamically. Thank you JavaScript for supporting sparse arrays!)
 
-Also, one big feature that no longer works is an overlay of Uwano Zendō's (1983) accent map of Japan. I believe I used an outside server
+Also, one big feature that no longer works is an overlay of Uwano Zendō's (1983) accent map of Japan. I believe I used an outside server that has since shut down to provide that map as tiles for this app. Any advice for solutions to making this work again would be greatly welcome!
 
 ## Contents
 
